@@ -1,44 +1,3 @@
-# Awesome Remote Job [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/)
-
-A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecommuting) resources.
-
-*To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow [the contributions guidelines](CONTRIBUTING.md).*
-
-## Table of Contents
-
-<!-- MarkdownTOC depth=4 -->
-
-- [Awesome Remote Job  ](#awesome-remote-job--)
-  - [Table of Contents](#table-of-contents)
-  - [Articles \& Posts](#articles--posts)
-  - [Videos](#videos)
-  - [Books](#books)
-  - [Humor](#humor)
-  - [Job boards](#job-boards)
-  - [Job boards aggregators](#job-boards-aggregators)
-  - [Housing](#housing)
-  - [Relocation Incentives](#relocation-incentives)
-  - [Interviewing](#interviewing)
-  - [Events](#events)
-  - [Newsletters](#newsletters)
-  - [Podcasts](#podcasts)
-  - [Companies with "remote DNA"](#companies-with-remote-dna)
-  - [Q\&A](#qa)
-  - [Communities](#communities)
-  - [Conferences](#conferences)
-  - [Tools](#tools)
-      - [HR](#hr)
-      - [Communication](#communication)
-      - [Project Management](#project-management)
-      - [Others](#others)
-  - [Law \& Finance](#law--finance)
-  - [Others](#others-1)
-  - [License](#license)
-
-<!-- /MarkdownTOC -->
-
-## Articles & Posts
-  1. [3 mistakes to avoid if you want to get hired remotely](https://x-team.com/blog/mistakes-remote-developers)
   1. [5 Things I've Learned From Working Remotely](https://www.donedone.com/blog/five-things-ive-learned-working-remotely)
   1. [5 Tricks to Get More Done While Working Remotely](https://rdutel.medium.com/working-remotely-getting-things-done-38dcd0413733)
   1. [8 tips that will make you a more active, healthier remote developer](https://x-team.com/blog/how-to-be-healthy-remote)
@@ -598,4 +557,5 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Lukasz Madon](https://github.com/lukasz-madon) has waived all copyright and related or neighboring rights to this work.
+
 
